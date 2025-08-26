@@ -72,7 +72,7 @@ brew install mingw-w64
 
 ```bash
 # Clone the repository
-git clone https://github.com/pandaapo/common4n.git
+git clone https://github.com/Fabricates/common4n.git
 cd common4n
 
 # Run tests
@@ -416,7 +416,7 @@ export GODEBUG=cgocheck=1
 
 ```bash
 # Clone repository
-git clone https://github.com/pandaapo/common4n.git
+git clone https://github.com/Fabricates/common4n.git
 cd common4n
 
 # Install dependencies
@@ -465,7 +465,7 @@ This project is licensed under the terms specified in the LICENSE file.
 
 For questions, issues, or contributions:
 
-- GitHub Issues: [https://github.com/pandaapo/common4n/issues](https://github.com/pandaapo/common4n/issues)
+- GitHub Issues: [https://github.com/Fabricates/common4n/issues](https://github.com/Fabricates/common4n/issues)
 - Documentation: This README and inline code comments
 - Examples: See the `examples/` directory
 
